@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ApiConsumeProjesi\\ApiConsumeProjesi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\ApiHavaDurumuProjesi\\ApiHavaDurumuProjesi\\ApiHavaDurumuProjesi\\ApiHavaDurumuProjesi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
